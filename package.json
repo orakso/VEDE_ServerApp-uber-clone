@@ -1,0 +1,45 @@
+{
+  "name": "vede",
+  "version": "0.0.1",
+  "description": "\"undescribed yet\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "Server is working."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oskonu@bitbucket.org/oskonu/vede-web.git"
+  },
+  "keywords": [
+    "not",
+    "set",
+    "yet"
+  ],
+  "author": "Oskar Onuoha",
+  "private": true,
+  "license": "SEE LICENSE IN ../license",
+  "homepage": "https://bitbucket.org/oskonu/vede-web#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "express-jwt": "^5.1.0",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.5",
+    "mongoskin": "^2.1.0",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "passport-local": "^1.0.0",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "rootpath": "^0.1.2",
+    "speakeasy": "^2.0.0",
+    "twilio": "^2.11.1"
+  }
+}

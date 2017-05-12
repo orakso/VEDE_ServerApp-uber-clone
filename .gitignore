@@ -1,0 +1,6 @@
+# Node and related ecosystem
+# ==========================
+node_modules/
+config/db.js
+config/auth.js
+config/twconfig.json
